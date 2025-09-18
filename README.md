@@ -23,5 +23,5 @@ Objetivo: prever se um passageiro sobreviveu ao naufrágio do Titanic.
 - Confusion Matrix
 
 ## Autor
-Isabela de Paula Castro
-João Manoel Ribeiro Machado 
+-Isabela de Paula Castro
+-João Manoel Ribeiro Machado 
